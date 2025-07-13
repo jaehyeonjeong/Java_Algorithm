@@ -19,11 +19,11 @@ public class SummaryNumber {
      * */
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
-        int nIndex = sc.nextInt();   // N 값 입력받기
-        String strNumber = sc.next();    // 길이 N의 숫자를 String형 변수 sNum에 저장
-        char[] cNumber = strNumber.toCharArray(); // sNum을 다시 char[]형 변수 cNum에 변환하여 저장
+        int nIndex = sc.nextInt();   // nIndex 값 입력받기
+        String strNumber = sc.next();    // 길이 nIndex의 숫자를 String형 변수 strNumber에 저장
+        char[] cNumber = strNumber.toCharArray(); // strNumber을 다시 char[]형 변수 cNumber에 변환하여 저장
         int nSummary = 0;
-        for(int i = 0;  i < cNumber.length; i++){ // cNum 길이만큼 반복하기
+        for(int i = 0;  i < cNumber.length; i++){ // cNumber 길이만큼 반복하기
             // 배열의 각 자리값을 정수형으로 변환하여 sum에 더하여 누적하기
             nSummary += cNumber[i] - 48;// or '0' (ASCII [0] -> 48)
             System.out.print((int)cNumber[i] + " ");
