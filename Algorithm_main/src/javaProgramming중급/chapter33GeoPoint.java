@@ -1,0 +1,22 @@
+package javaProgramming중급;
+// 위도 경도를 한 묶음으로 객체에 저장
+public class chapter33GeoPoint {
+    public static void main(String[] args) {
+        // 실수 변수
+        double latitude1 = 37.52127220511242;
+        double longitude1 = 127.0074462890625;
+        double latitude2 =35.137879119634185;
+        double longitude2 = 129.04541015625;
+        // 위도, 경도 객체
+        chapter33Geo geo1 = new chapter33Geo();
+        geo1.latitude = latitude1;
+        geo1.longitude = longitude1;
+        System.out.println(geo1.latitude + "\t" + geo1.longitude);
+        chapter33Geo geo2 = new chapter33Geo();
+        geo2.latitude = latitude2;
+        geo2.longitude = longitude2;
+        // 객체 전달
+        chapter33Geo geo = geo1;
+        System.out.println(geo.latitude + "\t" + geo.longitude);
+    }
+}
