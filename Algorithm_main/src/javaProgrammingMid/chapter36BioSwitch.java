@@ -1,4 +1,4 @@
-package javaProgramming중급;
+package javaProgrammingMid;
 // case
 public class chapter36BioSwitch {
     // 조건에 따라 신체, 감정, 지성값을 출력

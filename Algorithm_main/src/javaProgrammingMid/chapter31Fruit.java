@@ -1,4 +1,4 @@
-package javaProgramming중급;
+package javaProgrammingMid;
 
 public enum chapter31Fruit {
     APPLE, BANANA, MANGO

@@ -1,4 +1,4 @@
-package javaProgramming중급;
+package javaProgrammingMid;
 
 public class chapter30BioCalendar {
     // non static 매서드 맴버

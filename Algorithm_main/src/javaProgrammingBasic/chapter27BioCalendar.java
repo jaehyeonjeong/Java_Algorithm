@@ -1,4 +1,4 @@
-package javaProgramming초급;
+package javaProgrammingBasic;
 // 연산 % * /
 public class chapter27BioCalendar {
     public static final int PHYSICAL = 23;  // 상수(개발자 정의)

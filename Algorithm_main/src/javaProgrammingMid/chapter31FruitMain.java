@@ -1,4 +1,4 @@
-package javaProgramming중급;
+package javaProgrammingMid;
 
 public class chapter31FruitMain {
     // 상수의 묶음

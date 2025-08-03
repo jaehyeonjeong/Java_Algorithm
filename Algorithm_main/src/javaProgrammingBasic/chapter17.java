@@ -1,4 +1,4 @@
-package javaProgramming초급;
+package javaProgrammingBasic;
 // 사용자 정의 클래스
 class JLocation {
     // 파일이름과 클래스 이름이 다르기 때문에 public을 붙일 수 없다.

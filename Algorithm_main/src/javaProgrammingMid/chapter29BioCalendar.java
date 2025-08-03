@@ -1,4 +1,4 @@
-package javaProgramming중급;
+package javaProgrammingMid;
 
 public class chapter29BioCalendar {
     // static 매서드

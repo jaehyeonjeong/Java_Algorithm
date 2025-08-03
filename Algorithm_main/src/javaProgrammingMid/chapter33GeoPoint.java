@@ -1,4 +1,4 @@
-package javaProgramming중급;
+package javaProgrammingMid;
 // 위도 경도를 한 묶음으로 객체에 저장
 public class chapter33GeoPoint {
     public static void main(String[] args) {

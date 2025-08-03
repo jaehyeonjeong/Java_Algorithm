@@ -1,4 +1,4 @@
-package javaProgramming중급;
+package javaProgrammingMid;
 // s027의 Math.sin(), Math.toDegrees()
 public class chapter28BIoCalendar {
     // 상수, 상수값은 변경할 수 없다.

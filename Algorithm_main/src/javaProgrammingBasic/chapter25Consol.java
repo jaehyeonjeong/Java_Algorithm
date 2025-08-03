@@ -1,4 +1,4 @@
-package javaProgramming초급;
+package javaProgrammingBasic;
 // 간단한 데이터를 키보드로 입력받을 때 Scanner를 사용한다.
 import java.util.Scanner;
 // 입력, 출력

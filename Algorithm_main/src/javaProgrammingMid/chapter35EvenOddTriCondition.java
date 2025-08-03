@@ -1,4 +1,4 @@
-package javaProgramming중급;
+package javaProgrammingMid;
 // 삼항(?:) 연산자
 public class chapter35EvenOddTriCondition {
     public static void main(String[] args) {

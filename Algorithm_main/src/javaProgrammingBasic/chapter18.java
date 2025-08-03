@@ -1,4 +1,4 @@
-package javaProgramming초급;
+package javaProgrammingBasic;
 // 타입 변환의 필요성
 public class chapter18 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package javaProgramming초급;
+package javaProgrammingBasic;
 // 코멘트 - 프로그램에 영향이 없으며 설명을 위한 표시
 public class chapter19Comment {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package javaProgramming초급;
+package javaProgrammingBasic;
 // 상수
 public class chapter26BioCalendar {
     // 상수, 상수값은 변경할 수 없다.

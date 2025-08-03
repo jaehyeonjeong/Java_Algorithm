@@ -1,6 +1,4 @@
-package javaProgramming초급;
-
-import java.util.Arrays;
+package javaProgrammingBasic;
 
 public class chapter22Variable {
     // 실수 변수, 연산

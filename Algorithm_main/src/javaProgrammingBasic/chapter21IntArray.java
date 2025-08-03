@@ -1,4 +1,4 @@
-package javaProgramming초급;
+package javaProgrammingBasic;
 
 public class chapter21IntArray {
     // 정수 배열

@@ -1,4 +1,4 @@
-package javaProgramming초급;
+package javaProgrammingBasic;
 
 public class chapter20CalcInt {
     public static void main(String[] args) {

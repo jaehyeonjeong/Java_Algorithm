@@ -1,4 +1,4 @@
-package javaProgramming중급;
+package javaProgrammingMid;
 // if condition
 public class chapter34EvenOddIfCondition {
     public static void main(String[] args) {

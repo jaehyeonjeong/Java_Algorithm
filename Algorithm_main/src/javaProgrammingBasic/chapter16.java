@@ -1,4 +1,4 @@
-package javaProgramming초급;
+package javaProgrammingBasic;
 import java.util.Calendar;      // Calendar 클래스는 java.util에 있다.
 import java.util.Date;          // Date 클래스는 java.util에 있다,
 // 위에 있는 import 들이 참조타입이라고 한다.

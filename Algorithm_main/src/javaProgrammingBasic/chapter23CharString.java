@@ -1,4 +1,4 @@
-package javaProgramming초급;
+package javaProgrammingBasic;
 
 public class chapter23CharString {
     public static void main(String[] args) {

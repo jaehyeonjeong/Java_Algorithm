@@ -1,4 +1,4 @@
-package javaProgramming중급;
+package javaProgrammingMid;
 // 1차원 배열, 2차원 배열
 public class chapter32GeoPoint {
     // 실수 변수

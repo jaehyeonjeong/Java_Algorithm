@@ -1,4 +1,4 @@
-package javaProgramming초급;
+package javaProgrammingBasic;
 
 public class chapter24Method {
     // 매서드 선언
